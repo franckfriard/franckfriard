@@ -1,5 +1,5 @@
 <!-- Bannière en haut -->
-![Bannière](./assets/banner.png)
+
 
 # 👋 Bonjour, je suis Franck FRIARD
 
