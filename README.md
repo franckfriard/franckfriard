@@ -15,8 +15,8 @@
 
 ## 📫 Contact
 
-- ✉️ franck.friard@backboneagency.tech  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/franck-friard/)  
+- ✉️ franck.friard@backbone-agency.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/franck-friard-527816218/)  
 
 ---
 
